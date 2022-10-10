@@ -1278,3 +1278,9 @@ flask/virtual/Scripts/pip3.8.exe
 flask/virtual/Scripts/pip3.exe
 flask/virtual/Scripts/python.exe
 flask/virtual/Scripts/pythonw.exe
+pure python/data/project_transactions.csv
+pure python/data/product.csv
+pure python/data/hh_demographic.csv
+pure python/data/data.json
+pure python/data/data.csv
+pure python/data/data_example.csv
